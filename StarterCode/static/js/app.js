@@ -10,7 +10,7 @@ console.log(tableInfo)
 var button = d3.select("#filter-btn");
 var list = d3.select("#ufo-table");
 var tbody = d3.select("tbody");
-var form = d3.select("#form")
+// var form = d3.select("#form")
 
 //Events Functions
 function runEnter() {
@@ -37,6 +37,5 @@ function runEnter() {
     });
 
 };
-// runEnter(filteredData)
 
 button.on('click', runEnter);
