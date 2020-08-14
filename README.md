@@ -18,6 +18,11 @@ Completed all of Level 1 criteria then ;
   state
   country
   shape
+  
+ Static folder includes:
+ - app.js
+ - css
+ -
 
 Need to work on the following to get this work completed:
 - The data don't load when the pages start i have to search for something to show data.
